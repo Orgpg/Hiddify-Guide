@@ -41,5 +41,5 @@ Subscription > Scan & Update
 ## Step 7
 Subscription > Scan & Update
 <p align="center">
-  <img src="images/Step7.jpg" width="100%">
+  <img src="images/Step7.jpg" width="30%">
 </p>
