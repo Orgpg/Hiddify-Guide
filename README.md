@@ -1,6 +1,6 @@
 # Hiddify-Tutorial
 
-Hiddify Vpn Key ဖြင့်သုံးပုံအဆင့်မြှင့်လမ်းညွှန်
+Hiddify Vpn Key ဖြင့်သုံးပုံလမ်းညွှန်
 
 ## Step 1
 "+" ကိုနှိပ်ပါ။
