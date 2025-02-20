@@ -43,3 +43,9 @@ Subscription > Scan & Update
 <p align="center">
   <img src="images/Step7.jpg" width="50%">
 </p>
+
+## Telegram Bot :
+မိမိ Subscription Key Usage များကို Telegram Bot နဲ့ချိတ်ဆက် စစ်ဆေးနိုင်ပါသည်။
+<p align="center">
+  <img src="images/bot.jpg" width="50%">
+</p>
