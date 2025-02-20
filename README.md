@@ -27,6 +27,10 @@
   <a href="https://t.me/Orgpg">
     <img src="https://img.shields.io/badge/%F0%9F%91%A8%20Bot%20Admin-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+    &nbsp;&nbsp;
+  <a href="https://github.com/Orgpg/Hiddify-Guide/issues/new">
+    <img src="https://img.shields.io/badge/%E2%9A%A0%EF%B8%8F%20Report%20an%20Issue-ffcc00?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
 </p>
 
 ---
@@ -106,6 +110,10 @@
   &nbsp;&nbsp;
   <a href="https://t.me/Orgpg">
     <img src="https://img.shields.io/badge/%F0%9F%91%A8%20Bot%20Admin-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+      &nbsp;&nbsp;
+  <a href="https://github.com/Orgpg/Hiddify-Guide/issues/new">
+    <img src="https://img.shields.io/badge/%E2%9A%A0%EF%B8%8F%20Report%20an%20Issue-ffcc00?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
