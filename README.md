@@ -27,7 +27,7 @@ Tap to Connect ဖြင့်ချိတ်ဆက်အသုံးပြု�
 </p>
 
 ## Step 5
-Ulimited Gb & ဝယ်ယူထားသည့် date ။
+Ulimited Gb & ဝယ်ယူထားသည့် Subscription Expire Date ။
 <p align="center">
   <img src="images/Step5.jpg" width="30%">
 </p>
