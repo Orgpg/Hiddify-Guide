@@ -5,7 +5,7 @@ Hiddify Vpn Key ဖြင့်သုံးပုံလမ်းညွှန်
 ## Step 1
 "+" ကိုနှိပ်ပါ။
 <p align="center">
-  <img src="images/Step1.jpg" width="30%">
+  <img src="images/Step1.jpg" width="50%">
 </p>
 
 ## Step 2
