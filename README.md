@@ -1,6 +1,20 @@
 # Hiddify-Tutorial
 
+<p align="center">
+  <img src="images/Header.jpg" width="50%">
+</p>
+
 Hiddify Vpn Key ဖြင့်သုံးပုံလမ်းညွှန်
+
+<p align="center">
+  <a href="https://t.me/Orgpgbot">
+    <img src="https://img.shields.io/badge/%F0%9F%91%89%20V2ray%20Telegram%20Bot-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/Orgpg">
+    <img src="https://img.shields.io/badge/%F0%9F%91%A8%20Bot%20Admin-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
 ## Step 1 :
 "+" ကိုနှိပ်ပါ။
