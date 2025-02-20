@@ -49,3 +49,13 @@ Subscription > Scan & Update
 <p align="center">
   <img src="images/bot.jpg" width="50%">
 </p>
+
+<p align="center">
+  <a href="https://t.me/Orgpgbot" style="background-color: #0088cc; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">
+    👉 V2ray Telegram Bot
+  </a> 
+  &nbsp;&nbsp;
+  <a href="https://t.me/Orgpg" style="background-color: #0088cc; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">
+    👨‍💼 Bot Admin
+  </a>
+</p>
