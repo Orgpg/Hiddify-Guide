@@ -45,17 +45,18 @@ Subscription > Scan & Update
 </p>
 
 ## Telegram Bot :
-မိမိ Subscription Key Usage များကို Telegram Bot နဲ့ချိတ်ဆက် စစ်ဆေးနိုင်ပါသည်။
+ဝယ်ယူထားသည့် Subscription Key Usage များကို Telegram Bot နှင့်စစ်ဆေးလိုပါက Admin ဆီ မိမိ ID ပို့ပေးရန်လိုအပ်ပါသည်။
+
 <p align="center">
   <img src="images/bot.jpg" width="50%">
 </p>
 
 <p align="center">
-  <a href="https://t.me/Orgpgbot" style="background-color: #0088cc; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">
-    👉 V2ray Telegram Bot
-  </a> 
+  <a href="https://t.me/Orgpgbot">
+    <img src="https://img.shields.io/badge/%F0%9F%91%89%20V2ray%20Telegram%20Bot-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
   &nbsp;&nbsp;
-  <a href="https://t.me/Orgpg" style="background-color: #0088cc; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">
-    👨‍💼 Bot Admin
+  <a href="https://t.me/Orgpg">
+    <img src="https://img.shields.io/badge/%F0%9F%91%A8%20Bot%20Admin-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
