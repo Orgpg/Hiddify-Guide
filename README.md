@@ -37,7 +37,7 @@
 
 ## 📌 Step-by-Step Guide
 
-### **🛠 Step 1 : "+" ကိုနှိပ်ပါ။**
+### **🛠 Step 1 : Admin ပေးသည့် Key ကို Copy ယူပီး "+" ကိုနှိပ်ပါ။**
 <p align="center">
   <img src="images/Step1.jpg" width="50%">
 </p>
